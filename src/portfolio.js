@@ -15,7 +15,7 @@ const greeting = {
   subTitle:
     "ReactJS Frontend Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
+    "https://drive.google.com/file/d/1R-0N3RNLidLrjtXapKrzUvOtsFlOuh7s/view?usp=sharing",
   mail: "shahnehi06@gmail.com",
 };
 
